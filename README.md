@@ -1,7 +1,7 @@
 ## Create a simple React single-page web app following these steps:
 - Use create-react-app to bootstrap your project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 - Use a data source of your own choosing in JSON format that has lists of JavaScript objects within it 
     - films.json
@@ -20,4 +20,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Push your repository to GitHub, deploy your repo using Netlify, and submit both your GitHub URL AND your Netlify URL via this Canvas assignment.
 
-    - [Netlify] (https://3790-initial-app.netlify.app/)
+    - [Netlify](https://3790-initial-app.netlify.app/)
