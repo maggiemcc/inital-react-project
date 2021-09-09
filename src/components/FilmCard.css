@@ -1,0 +1,41 @@
+.card {
+    border: 2px solid black;
+    border-radius: 2%;
+    max-width: 450px;
+    width: 70%;
+    margin: 20px auto;
+    padding: 3%;
+}
+
+
+.card h1 {
+  color: red;
+  font-size: 2rem;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+
+.card h3 {font-size: 1rem;}
+
+.card h3, .card p {margin: 8px;}
+
+.card p {
+  text-align: left;
+  text-indent: 30px;
+}
+
+
+.posterDiv {
+  max-width: 350px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.poster {
+  max-width: 400px;
+  width: 70%;
+  margin: auto;
+  border: 2px solid red;
+  border-radius: 2%;
+}
