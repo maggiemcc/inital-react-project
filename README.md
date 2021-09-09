@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Create a simple React single-page web app following these steps:
 - Use create-react-app to bootstrap your project
 
