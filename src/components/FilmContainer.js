@@ -9,6 +9,7 @@ const FilmContainer = () => {
           <FilmCard
             title={film.title}
             directorName={film.director}
+            producerName={film.producer}
             episodeId={film.episode_id}
             poster={film.image}
             openingCrawl={film.opening_crawl}

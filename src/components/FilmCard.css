@@ -1,25 +1,25 @@
-.card {
+.cardTheme {
     border: 2px solid black;
     border-radius: 2%;
     max-width: 450px;
-    width: 70%;
+    /* width: 70%; */
     margin: 20px auto;
     padding: 3%;
 }
 
 
-.card h1 {
+.cardTheme h1 {
   color: red;
   font-size: 2rem;
   text-transform: capitalize;
   text-decoration: none;
 }
 
-.card h3 {font-size: 1rem;}
+.cardTheme h3 {font-size: 1rem;}
 
-.card h3, .card p {margin: 8px;}
+.cardTheme h3, .cardTheme p {margin: 8px;}
 
-.card p {
+.cardTheme p {
   text-align: left;
   text-indent: 30px;
 }
@@ -38,4 +38,15 @@
   margin: auto;
   border: 2px solid red;
   border-radius: 2%;
+}
+
+.info {
+    text-align: left;
+    border: 2px solid black;
+    border-radius: 3%;
+    margin: 2% 0;
+}
+
+.info span {
+    font-weight: lighter;
 }

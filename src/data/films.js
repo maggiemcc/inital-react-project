@@ -6,7 +6,7 @@ export const films = [
         "director": "George Lucas",
         "producer": "Gary Kurtz, Rick McCallum",
         "release_date": "1977-05-25",
-        "image": "https://m.media-amazon.com/images/I/A1wnJQFI82L._AC_SY879_.jpg",
+        "image": "https://d9nvuahg4xykp.cloudfront.net/-7909250901946218168/8553498323954813196.jpg",
         "characters": [
             "https://swapi.co/api/people/1/",
             "https://swapi.co/api/people/2/",
