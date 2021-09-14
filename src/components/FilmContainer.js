@@ -7,6 +7,7 @@ const FilmContainer = () => {
       {films.map((film) => {
         return (
           <FilmCard
+            key={film.episode_id}
             title={film.title}
             directorName={film.director}
             producerName={film.producer}
